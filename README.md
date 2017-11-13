@@ -25,3 +25,9 @@ For all my Team Treehouse learnings and minor projects. No biggie.
   rock-paper-scissors - two-player rock/paper/scissors results generator  
     - create infinite game loop to be broken by user  
     - account for all possible input responses by user  
+    
+  dungeon-game - player attempts to escape, or is eaten by monster  
+    - unpacking of tuples  
+    - visual mapping using python functions  
+    - clear screen function  
+    - really long arduous practice on breaking problem codes down  
