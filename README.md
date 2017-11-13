@@ -1,8 +1,8 @@
 # team-treehouse-projects
 For all my Team Treehouse learnings and minor projects. No biggie.  
   
-PROJECTS THUS FAR:  
-Python:  
+## Projects:  
+**Python**:  
   to-do-list - creates a .txt document with indented list of things to do.   
     - learn to open, append and save a .txt file  
     - indent list  
