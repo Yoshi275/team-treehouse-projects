@@ -16,7 +16,7 @@ def print_final_list():
     file = open(file_name, "a")
     for item in my_list:
         count += 1
-        file.write(str(count) + '.' + item + '\n')
+        file.write(str(count) + '. ' + item + '\n')
     file.close()
 
 def help_me():
