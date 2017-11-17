@@ -31,3 +31,6 @@ For all my Team Treehouse learnings and minor projects. No biggie.
     - visual mapping using python functions  
     - clear screen function  
     - really long arduous practice on breaking problem codes down  
+  password-generator - user requests for password, and can pick weak or strong ones  
+    - strings are really fun and cool  
+    - really utilises random.choice() and randrange functions  
