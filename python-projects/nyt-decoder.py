@@ -11,6 +11,6 @@ headings = soup.find_all("h2", {"class": "story-heading"})
 
 for heading in headings:
 	if heading.find_all("a"):
-		print(heading.a.text.strip())  # strip removes the whitespace around it if a 
+		print(heading.a.text.strip())  # strip removes the whitespace around it if a
 	else:
 		print(heading.text)

@@ -41,3 +41,6 @@ For all my Team Treehouse learnings and minor projects. No biggie.
   cows-and-bulls - generates number to be guessed by user  
     - user random generator  
     - practise string index-by-index comparison  
+  news-parser - generates news article in plain text, given by user  
+    - uses beautiful soup to parse html  
+    - saves article as text document  
