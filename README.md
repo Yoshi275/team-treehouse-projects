@@ -34,3 +34,7 @@ For all my Team Treehouse learnings and minor projects. No biggie.
   password-generator - user requests for password, and can pick weak or strong ones  
     - strings are really fun and cool  
     - really utilises random.choice() and randrange functions  
+  nyt-decoder - generates titles on New York Times' frontpage  
+    - uses BeautifulSoup and requests libraries    
+    - learn to install libraries and read documentation (somewhat)  
+    - basic understanding of html documents  
