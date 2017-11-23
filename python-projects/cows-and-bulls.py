@@ -5,10 +5,11 @@ import random
 def compare_numbers(number, guess):
 	cowbull = [0, 0]  # cow & bull count
 	for i in range(len(number)):
-		if number[i] == guess[i]:
-			cowbull[0] += 1
-		else:
-			cowbull[1] += 1
+		if guess[i] in number:
+			if number[i] == guess[i]:
+				cowbull[0] += 1
+			else:
+				cowbull[1] += 1
 	return cowbull
 
 
@@ -21,8 +22,8 @@ def cow_loop():
 	print("I have a number. Try guessing what it is. EXIT to quit game.")
 
 	# allow user to enter guess
-	print("For every correct number, you have a cow.")
-	print("For every wrong number, you have a bull.")
+	print("For every correct number in the correct position, you have a cow.")
+	print("For every correct number in the wrong position, you have a bull.")
 	guess_count = []
 
 	while len(guess_count) <= 50:
