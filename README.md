@@ -31,16 +31,20 @@ For all my Team Treehouse learnings and minor projects. No biggie.
     - visual mapping using python functions  
     - clear screen function  
     - really long arduous practice on breaking problem codes down  
+    
   password-generator - user requests for password, and can pick weak or strong ones  
     - strings are really fun and cool  
     - really utilises random.choice() and randrange functions  
+    
   nyt-decoder - generates titles on New York Times' frontpage  
     - uses BeautifulSoup and requests libraries    
     - learn to install libraries and read documentation (somewhat)  
     - basic understanding of html documents  
+    
   cows-and-bulls - generates number to be guessed by user  
     - user random generator  
     - practise string index-by-index comparison  
+    
   news-parser - generates news article in plain text, given by user  
     - uses beautiful soup to parse html  
     - saves article as text document  
